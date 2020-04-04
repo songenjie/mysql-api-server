@@ -1,0 +1,57 @@
+{
+  "historydays": [
+    {
+      "startday": ,
+      "endday": 
+    },
+    {
+      "startday": ,
+      "endday": 
+    }
+  ],
+  "partitionclusters": [
+    {
+      "clustername": "",
+      "databases": [
+        {
+          "databasename": "",
+          "tables": [
+            {
+              "tablename": "",
+              "partition_create_by": "",
+              "partition_head_name_by": "",
+              "start_offset_day": ,
+              "end_offset_day": 
+            },
+            {
+              "tablename": "",
+              "partition_create_by": "",
+              "partition_head_name_by": "",
+              "start_offset_day": ,
+              "end_offset_day": 
+            }
+          ]
+        },
+        {
+          "databasename": "",
+          "tables": [
+            {
+              "tablename": "",
+              "partition_create_by": "",
+              "partition_head_name_by": "",
+              "start_offset_day": ,
+              "end_offset_day": 
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clustername": "",
+      "databases": [
+        {
+        }
+      ]
+    }
+  ]
+}

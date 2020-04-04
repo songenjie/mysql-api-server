@@ -1,0 +1,28 @@
+[
+	{
+		"nameservices":"",
+		"namenodes":[
+			{
+				"name": "",
+				"rpcaddress": ""
+			},
+			{
+				"name": "",
+				"rpcaddress": ""
+			}
+		]
+	},
+	{
+		"nameservices":"",
+		"namenodes":[
+			{
+				"name": "",
+				"rpcaddress": ""
+			},
+			{
+				"name": "",
+				"rpcaddress": ""
+			}
+		]
+	}
+]
